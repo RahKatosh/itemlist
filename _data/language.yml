@@ -7,11 +7,11 @@ weapons_tab: 'Armes'
 pawn_kinds_tab: 'Type de colon'
 
 # Table headers
-mod_name_header: Mod Name
+mod_name_header: Nom du mod
 author_header: Auteur
 version_header: Version
-command_name_header: Command Name
-user_level_header: User Level
+command_name_header: Nom de commande
+user_level_header: Accréditation requise
 description_header: Description
 cost_header: Prix
 category_header: Categorie
@@ -21,12 +21,12 @@ remove_cost_header: Prix pour retirer
 name_header: Nom
 
 # Error messages
-no_commands: 'These are not the commands you are looking for.'
+no_commands: 'T'as pas finit de tout faire planter ?'
 
 # Redirect messages
-see_traits: 'See prices in the traits section'
-see_kinds: 'See prices in the pawn kinds section'
-see_items: 'See prices in the items section'
+see_traits: 'Voir les prix dans la section Traits'
+see_kinds: 'Voir les prix dans la section Type de colon'
+see_items: 'Voir les prix dans la section Objets'
 
 # Search texts
 search_items: 'Rechercher un objet...'
