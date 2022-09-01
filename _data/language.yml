@@ -4,7 +4,7 @@ events_tab: 'Events'
 traits_tab: 'Traits'
 animals_tab: 'Animaux'
 weapons_tab: 'Armes'
-pawn_kinds_tab: 'Race de colon'
+pawn_kinds_tab: 'Type de colon'
 
 # Table headers
 mod_name_header: Mod Name
